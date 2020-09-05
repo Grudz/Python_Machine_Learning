@@ -3,7 +3,7 @@ This repo stores examples of various machine learning methods including how to b
 
 These programs run in an virtual environment. My personal folder location is: C:\Users\Ben\PycharmProjects\tensorEnv
 
-Also this stores the Coursera "Tensorflow in Practice" programs and documents.
+Also this stores the Coursera "Tensorflow in Practice" programs and documents. (Thanks to SHANK885 for the Course Layout below)
 
 ![](https://d2wvfoqc9gyqzf.cloudfront.net/content/uploads/2019/06/Website-TFSDesktopBanner.png)
 
