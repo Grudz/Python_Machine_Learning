@@ -1,0 +1,40 @@
+image augmentation:
+https://github.com/keras-team/keras-preprocessing
+
+Kaggle:
+https://www.kaggle.com/c/dogs-vs-cats
+https://www.kaggle.com/c/dogs-vs-cats/data
+
+Pixabay:
+https://pixabay.com/photos/kitty-cat-kitten-pet-animal-cute-551554/
+
+Keras Image Aug:
+https://keras.io/api/preprocessing/image/
+
+Transfer Learning:
+https://arxiv.org/abs/1512.00567
+http://image-net.org/
+https://www.tensorflow.org/tutorials/images/transfer_learning
+
+Inception URL:
+
+
+Dropouts:
+https://www.youtube.com/watch?v=ARq74QuavAo
+
+Datasets:
+http://www.laurencemoroney.com/rock-paper-scissors-dataset/
+https://www.kaggle.com/datamunge/sign-language-mnist
+
+Filters for convolution: 
+https://en.wikipedia.org/wiki/Kernel_(image_processing)
+
+Tf stuff for conv/pooling
+https://lodev.org/cgtutor/filtering.html
+https://www.tensorflow.org/api_docs/python/tf/keras/layers/Conv2D
+https://www.tensorflow.org/api_docs/python/tf/keras/layers/MaxPool2D
+
+Github:
+
+Weed AI idea:
+https://www.youtube.com/watch?v=NlpS-DhayQA
