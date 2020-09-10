@@ -1,0 +1,41 @@
+Helpful Links:
+
+BBC data:
+http://mlg.ucd.ie/datasets/bbc.html
+
+Sarcasm Data
+https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection
+
+Stanford Dataset:
+http://ai.stanford.edu/~amaas/data/sentiment/
+
+View TSV files in 3D space:
+https://projector.tensorflow.org/
+
+TensorFlow Datasets:
+https://www.tensorflow.org/datasets/catalog/overview
+https://github.com/tensorflow/datasets/tree/master/docs/catalog
+https://github.com/tensorflow/datasets/blob/master/docs/catalog/imdb_reviews.md
+https://www.tensorflow.org/datasets/api_docs/python/tfds/features/text/SubwordTextEncoder
+
+Deep RNN:
+https://www.coursera.org/lecture/nlp-sequence-models/deep-rnns-ehs0S
+
+LSTM:
+https://www.coursera.org/lecture/nlp-sequence-models/long-short-term-memory-lstm-KXoay
+
+Exercise 3:
+https://nlp.stanford.edu/projects/glove/
+https://www.kaggle.com/kazanova/sentiment140
+
+Text Gen with RNN from TF:
+https://www.tensorflow.org/tutorials/text/text_generation
+
+Laurences Poetry:
+https://storage.googleapis.com/laurencemoroney-blog.appspot.com/irish-lyrics-eof.txt
+
+Regularizers:
+https://github.com/tensorflow/tensorflow/issues/7023
+https://www.tensorflow.org/api_docs/python/tf/keras/regularizers/Regularizer
+https://colab.research.google.com/notebooks/snippets/importing_libraries.ipynb
+https://www.tensorflow.org/api_docs/python/tf/keras/regularizers
