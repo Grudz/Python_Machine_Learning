@@ -1,0 +1,38 @@
+Helpful Links:
+
+Resources:
+https://developers.google.com/machine-learning/crash-course/descending-into-ml/video-lecture
+https://en.wikipedia.org/wiki/Stochastic_gradient_descent#RMSProp
+https://developers.google.com/machine-learning/glossary/#SGD
+https://en.wikipedia.org/wiki/Stochastic_gradient_descent#Adam
+https://developers.google.com/machine-learning/glossary/#AdaGrad
+https://en.wikipedia.org/wiki/Sigmoid_function
+http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf
+https://www.youtube.com/watch?v=eqEc66RFY0I&t=6s
+
+Github/Free Pic site
+https://gombru.github.io/2018/05/23/cross_entropy_loss/
+https://pixabay.com/photos/beautiful-smile-girl-woman-happy-1274361/
+https://github.com/zalandoresearch/fashion-mnist
+
+Main Github
+https://github.com/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%202%20-%20Lesson%202%20-%20Notebook.ipynb
+
+Responsible AI practice:
+https://ai.google/responsibilities/responsible-ai-practices/
+
+TensorFlow:
+https://www.tensorflow.org/api_docs/python/tf/keras/layers/Conv2D
+https://www.tensorflow.org/api_docs/python/tf/keras/layers/MaxPool2D
+
+Youtube:
+https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF
+
+Image Filtering:
+https://lodev.org/cgtutor/filtering.html
+
+Optimzers:
+https://gombru.github.io/2018/05/23/cross_entropy_loss/
+https://www.youtube.com/watch?v=eqEc66RFY0I&t=6s
+http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf
+
